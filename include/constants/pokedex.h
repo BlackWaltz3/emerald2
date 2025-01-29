@@ -1220,6 +1220,7 @@ enum {
     HOENN_DEX_ELECTRODE,
     HOENN_DEX_JOLTIK,
     HOENN_DEX_GALVANTULA,
+    HOENN_DEX_KLEFKI,
     // Route 111 Desert
     HOENN_DEX_TRAPINCH,
     HOENN_DEX_VIBRAVA,
@@ -1464,7 +1465,6 @@ enum {
     HOENN_DEX_DRUDDIGON,
     // Victory Road Land
     HOENN_DEX_BOUFFALANT,
-    HOENN_DEX_KLEFKI,
     // Victory Road Lava
     HOENN_DEX_SAWK,
     HOENN_DEX_THROH,
